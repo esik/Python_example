@@ -1,4 +1,4 @@
-names = ['alice', 'pablo', 'francisko']
-for name in names:
-    print(name.title()+",чё как оно")
-print('спасибо за внимание')
+animals = ['cat', 'dog', 'lion']
+for animal in animals:
+    print(animal.title()+",animal")
+print('This my favorite animals')
