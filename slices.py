@@ -7,7 +7,7 @@ for player in players[3:]:
 # favorite food
 my_foods = ['pizza', 'sandwich', 'carrot cake']
 friend_food = my_foods[:]
-my_foods.('lazania')
+my_foods.append('lazania')
 friend_food.append('potato')
 print('My favorite food', my_foods)
 print('\nMy friend favorite food is', friend_food)
